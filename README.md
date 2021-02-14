@@ -7,7 +7,7 @@ npm install
 
 You need to have a elasticsearch serwer running on port 9200
 
-At first run make sure, that in file routes.js following lines:
+At first run make sure, that in file routes.js following lines are uncommented
 ```
 const users = require('./seeds');
 users.forEach((user) => {
@@ -17,7 +17,6 @@ users.forEach((user) => {
   });
 });
 ```
-are uncommented.
 
 Then start application server:
 ```
