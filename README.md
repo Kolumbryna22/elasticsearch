@@ -1,4 +1,4 @@
-# my first project with elasticsearch
+# My first project with elasticsearch
 
 ### steps:
 ```
@@ -44,5 +44,5 @@ get localhost:3000/api/v1/users
 
 You can add searching parameter:
 ```
-localhost:3000/api/v1/users?user=Division
+get localhost:3000/api/v1/users?user=Division
 ```
