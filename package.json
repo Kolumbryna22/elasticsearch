@@ -1,0 +1,20 @@
+{
+  "name": "elasticsearsh",
+  "version": "1.0.0",
+  "description": "Litle project to test elasticsearch advantage over sql raw search",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Dominik Wilusz",
+  "license": "ISC",
+  "dependencies": {
+    "elasticsearch": "^16.7.2",
+    "express": "^4.17.1",
+    "faker": "^5.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

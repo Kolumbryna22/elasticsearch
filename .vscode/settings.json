@@ -1,0 +1,9 @@
+{
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "window.zoomLevel": 0,
+  "files.trimTrailingWhitespace": true
+}
